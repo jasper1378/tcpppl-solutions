@@ -4,6 +4,12 @@
 
 Solutions to exercises from *The C++ Programming Language* (4th edition) by Bjarne Stroustrup.
 
+## Note
+
+The exercises in *The C++ Programming Language* are published separately and may be updated independently of the book. For reference, I am using the version dated May 12, 2013.
+
+I have chosen not to restrict myself to C++11 in order to gain experience with modern C++ features. Currently, that means C++20 or C++23.
+
 <!---
 
 ## Installation
