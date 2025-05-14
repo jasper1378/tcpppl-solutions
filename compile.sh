@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 g++ \
-  -std=c++11 \
+  -std=c++20 \
   -pedantic \
   -O0 \
   -g3 \
